@@ -5,7 +5,7 @@ Code and data for paper "Detecting structural change across a gradient of forest
 Clark, M. L., Bailey, T., Burns, P., Gutman, T., Haines, M., Wotring, I., Hakkenberg, C., & Goetz, S. (in review). Detecting structural change across a gradient of forest management intensity with GEDI spaceborne lidar in California, USA. 
 
 Matthew L. Clark, Ph.D.
-Department of Geography, Environment, and Planning
+Department of Applied Environmental and Human Sciences
 Sonoma State University, California USA
 matthew.clark@sonoma.edu
 
