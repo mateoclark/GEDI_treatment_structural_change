@@ -1,8 +1,8 @@
 # GEDI_treatment_structural_change
 
-Code and data for paper "Changes in GEDI-based measures of forest structure after large California wildfires relative to pre-fire conditions"
+Code and data for paper "Detecting structural change across a gradient of forest management intensity with GEDI spaceborne lidar in California, USA"
 
-Clark, M. L., Bailey, T., Burns, P., Gutman, T., Haines, M., Wotring, I., Hakkenberg, C., & Goetz, S. (in review). Detecting structural change from forest fuel treatments with GEDI spaceborne lidar across California, USA. 
+Clark, M. L., Bailey, T., Burns, P., Gutman, T., Haines, M., Wotring, I., Hakkenberg, C., & Goetz, S. (in review). Detecting structural change across a gradient of forest management intensity with GEDI spaceborne lidar in California, USA. 
 
 Matthew L. Clark, Ph.D.
 Department of Geography, Environment, and Planning
